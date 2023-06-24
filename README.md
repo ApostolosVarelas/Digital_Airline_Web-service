@@ -10,7 +10,7 @@
 __Στοιχεία Admin__
 
 Στα αρχεία του συστήματος, έχει γίνει ήδη η εισαγωγή του Admin
-```json
+```code
 {
     _id: 'ADM',
     firtname: 'Apostolos',
