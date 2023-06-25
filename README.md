@@ -295,7 +295,7 @@ __Στοιχεία Admin__
   2. Λάθος εισαγωγή δεδομένων
 
     
-![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/ef42ddcc-54ef-4e57-8798-5f02ed4905fc)
+    ![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/ef42ddcc-54ef-4e57-8798-5f02ed4905fc)
 
   3. Μερικώς σωστή εισαγωγή δεδομένων
 
