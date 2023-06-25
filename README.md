@@ -252,5 +252,6 @@ __Στοιχεία Admin__
 - Ανανέωση τιμών εισιτηρίων πτήσης
 - Διαγραφή πτήσης
 - Εμφάνιση στοιχείων πτήσεων
+  
   ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/9ddd669b-f079-486d-a62d-e2f21cff5217)
 
