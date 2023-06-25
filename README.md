@@ -238,6 +238,16 @@ __Στοιχεία Admin__
 Παρακάτω φαίνονται παραδείγματα χρήσης κώδικα με εικόνες.
 ### Λειτουργείες User/Admin
 - Είσοδος στο σύστημα
+
+  1. Σωστή εισαγωγή δεδομένων
+
+     ![Screenshot_4](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/2a68eade-319d-4019-91c4-59df76183cc9)
+2. Λάθος εισαγωγή δεδομένων
+
+   ![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/6612782a-7743-49cf-96c9-d45bf8b9a20e)
+![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/46759dbc-ef63-4623-85a0-e6bacff139a8)
+
+
 - Έξοδος απο το σύστημα
 - Αναζήτηση πτήσεων
 - Εμφάνιση στοιχείων πτήσης
@@ -252,6 +262,4 @@ __Στοιχεία Admin__
 - Ανανέωση τιμών εισιτηρίων πτήσης
 - Διαγραφή πτήσης
 - Εμφάνιση στοιχείων πτήσεων
-  
-  ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/9ddd669b-f079-486d-a62d-e2f21cff5217)
 
