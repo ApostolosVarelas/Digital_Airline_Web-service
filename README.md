@@ -287,6 +287,19 @@ __Στοιχεία Admin__
   ![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/70ab2784-8d0b-4236-8d7e-f1e7cc92f23b)
    
 - __Εμφάνιση στοιχείων πτήσης__
+
+1. Σωστή εισαγωγή δεδομένων
+
+    ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/e9f5604f-f0b7-493c-ad0a-a98ce5fd1d54)
+
+  2. Λάθος εισαγωγή δεδομένων
+
+    ![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/d5f846c7-d30b-4de0-ad92-8b7e3abc29b9)
+
+  3. Μερικώς σωστή εισαγωγή δεδομένων
+
+     ![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/ed82f2f3-d008-47f6-ad8f-b2d5927e74a7)
+
 - __Κράτηση εισιτηρίου__
 - __Εμφάνιση κρατήσεων__
 - __Εμφάνιση στοιχείων κράτησης__
