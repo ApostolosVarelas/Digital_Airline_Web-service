@@ -236,14 +236,17 @@ __Στοιχεία Admin__
 ## Χρήση κώδικα με εικόνες
 
 Παρακάτω φαίνονται παραδείγματα χρήσης κώδικα με εικόνες.
+
+Σε όλες τις λειτουργίες
+
 ### Λειτουργείες User/Admin
 
--Εγγραφή στο σύστημα
+- __Εγγραφή στο σύστημα__
 1. Σωστή εισαγωγή δεδομένων
    
    ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/fe017321-b0b1-4cf6-ac73-32f0d1396ede)
 
-2. Μη σωστή εισαγωγή δεδομένω
+2. Μερικώς σωστή εισαγωγή δεδομένων
    
    ![leipei to passport](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/21fec447-16cb-4f5a-bd03-062bc06674d7)
 
@@ -253,7 +256,7 @@ __Στοιχεία Admin__
 
 
 
-- Είσοδος στο σύστημα
+- __Είσοδος στο σύστημα__
 
 1. Σωστή εισαγωγή δεδομένων
 
@@ -263,22 +266,36 @@ __Στοιχεία Admin__
    ![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/6612782a-7743-49cf-96c9-d45bf8b9a20e)
 ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/46759dbc-ef63-4623-85a0-e6bacff139a8)
 
-3. Μη σωστή εισαγωγή δεδομένων
+3. Μερικώς σωστή εισαγωγή δεδομένων
 
    ![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/fdbf8e1c-1066-44fb-b942-7867658c0f21)
    
-- Έξοδος απο το σύστημα
-- Αναζήτηση πτήσεων
-- Εμφάνιση στοιχείων πτήσης
-- Κράτηση εισιτηρίου
-- Εμφάνιση κρατήσεων
-- Εμφάνιση στοιχείων κράτησης
-- Ακύρωση κράτησης
-- Διαγραφή λογαριασμού
+- __Έξοδος απο το σύστημα__
+    ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/cb37ae73-49da-4887-baf7-852d05c8844c)
+
+- __Αναζήτηση πτήσεων__
+  1. Σωστή εισαγωγή δεδομένων
+
+![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/c5b1d273-8399-41cb-99af-3a1390a43eff)
+    
+  2. Λάθος εισαγωγή δεδομένων
+
+![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/cf12688d-914f-4acf-a4de-c2a506b94187)
+    
+  3. Μερικώς σωστή εισαγωγή δεδομένων
+
+  ![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/70ab2784-8d0b-4236-8d7e-f1e7cc92f23b)
+   
+- __Εμφάνιση στοιχείων πτήσης__
+- __Κράτηση εισιτηρίου__
+- __Εμφάνιση κρατήσεων__
+- __Εμφάνιση στοιχείων κράτησης__
+- __Ακύρωση κράτησης__
+- __Διαγραφή λογαριασμού__
 
 ### Λειτουργείες Admin
-- Δημιουργία πτήσης
-- Ανανέωση τιμών εισιτηρίων πτήσης
-- Διαγραφή πτήσης
-- Εμφάνιση στοιχείων πτήσεων
+- __Δημιουργία πτήσης__
+- __Ανανέωση τιμών εισιτηρίων πτήσης__
+- __Διαγραφή πτήσης__
+- __Εμφάνιση στοιχείων πτήσεων__
 
