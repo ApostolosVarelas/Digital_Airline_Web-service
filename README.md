@@ -359,9 +359,57 @@ __Στοιχεία Admin__
    
 - __Διαγραφή λογαριασμού__
 
+  ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/451d74d9-8d7a-4019-b27c-42144f9efb5a)
+
+
 ### Λειτουργείες Admin
 - __Δημιουργία πτήσης__
-- __Ανανέωση τιμών εισιτηρίων πτήσης__
-- __Διαγραφή πτήσης__
-- __Εμφάνιση στοιχείων πτήσεων__
 
+1. Σωστή εισαγωγή δεδομένων
+
+    ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/63c08e0e-8574-449c-820b-29578aa4f03e)
+   
+2. Μερικώς σωστή εισαγωγή δεδομένων
+ 
+     ![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/9e693e3d-fd31-403f-a883-7ade02dd2824)
+
+- __Ανανέωση τιμών εισιτηρίων πτήσης__
+1. Σωστή εισαγωγή δεδομένων
+
+    ![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/243f76c5-cf14-4638-b3c4-c710eda8f06a)
+
+  2. Λάθος εισαγωγή δεδομένων
+
+![Screenshot_4](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/fa23e09e-e244-4b52-af49-7bfc69570906)
+
+  3. Μερικώς σωστή εισαγωγή δεδομένων
+
+![Screenshot_5](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/91a4ab7b-3ef3-4616-a8df-39ed9c9aa358)
+
+- __Διαγραφή πτήσης__
+1. Σωστή εισαγωγή δεδομένων
+
+    ![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/4987d9d4-01c7-42dc-9130-dc7fb25a2f0d)
+
+2. Λάθος εισαγωγή δεδομένων
+
+    ![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/69f29822-4645-4e29-89da-d876fc021ec3)
+
+3. Μερικώς σωστή εισαγωγή δεδομένων
+
+     ![Screenshot_4](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/0a639e1d-327b-4098-9b80-ee1d7125fbad)
+4. Διαγραφή πτήσης στην οποία έχει γίνει τουλάχιστον μια κράτηση
+   
+    ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/a11fb0e7-9312-4f19-8663-e5582db81a57)
+
+- __Εμφάνιση στοιχείων πτήσεων__
+1. Σωστή εισαγωγή δεδομένων
+
+    ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/7c25f5a8-1dd8-47ec-ae7e-bc0914ded5a7)
+
+  2. Λάθος εισαγωγή δεδομένων
+
+![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/06f344ce-e491-45a0-b2fe-12f51635a0ec)
+
+  3. Μερικώς σωστή εισαγωγή δεδομένων
+![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/53671bd1-f0c8-4a40-982f-349ec01bb066)
