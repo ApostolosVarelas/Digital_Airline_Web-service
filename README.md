@@ -237,7 +237,9 @@ __Στοιχεία Admin__
 
 Παρακάτω φαίνονται παραδείγματα χρήσης κώδικα με εικόνες.
 
-Σε όλες τις λειτουργίες
+Σε όλες τις λειτουργίες, όταν ο χρήστης δεν έχει κάνει login παρουσιάζεται το παρακάτω μήνυμα:
+
+![no login](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/ed1b753a-6be2-414b-ac1c-b865d5552b15)
 
 ### Λειτουργείες User/Admin
 
@@ -295,15 +297,48 @@ __Στοιχεία Admin__
   2. Λάθος εισαγωγή δεδομένων
 
     
-    ![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/ef42ddcc-54ef-4e57-8798-5f02ed4905fc)
+![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/ef42ddcc-54ef-4e57-8798-5f02ed4905fc)
 
   3. Μερικώς σωστή εισαγωγή δεδομένων
 
      ![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/ed82f2f3-d008-47f6-ad8f-b2d5927e74a7)
 
 - __Κράτηση εισιτηρίου__
+
+1. Σωστή εισαγωγή δεδομένων
+
+    ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/e41e1dcf-910f-438b-9bc5-62775658394a)
+
+  2. Λάθος εισαγωγή δεδομένων
+
+    ![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/7d388e83-119c-4359-8520-a2d768d937ec)
+![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/e7290e11-50d8-4b46-9f9b-6fa09937e449)
+
+  3. Μερικώς σωστή εισαγωγή δεδομένων
+
+     ![Screenshot_4](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/8517d78e-88dd-4e63-94a0-e9b73f817f6d)
+
 - __Εμφάνιση κρατήσεων__
+
+  ![Screenshot_5](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/d92bcb08-a905-4002-b8ca-7939291c294a)
+
 - __Εμφάνιση στοιχείων κράτησης__
+
+1. Σωστή εισαγωγή δεδομένων
+
+    ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/62d5065f-1d50-4095-bfcc-ef26eb5ecf69)
+
+  2. Λάθος εισαγωγή δεδομένων
+
+    ![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/9a9bd08b-a56f-484a-88ca-95e8bae0bd3c)
+
+  3. Μερικώς σωστή εισαγωγή δεδομένων
+
+     ![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/7950f525-9e95-4860-8ca5-61f0fd1328c1)
+  4. Προσπάθεια εμφάνιση κράτησης άλλου χρήστη
+
+     ![Screenshot_6](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/47693258-e9af-40a5-ac57-fb719c3c60e5)
+
 - __Ακύρωση κράτησης__
 - __Διαγραφή λογαριασμού__
 
