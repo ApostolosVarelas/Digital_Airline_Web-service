@@ -139,7 +139,7 @@ __Στοιχεία Admin__
   "lastname": "",
   "passport_number": "",
   "date_of_birth": "",
-  "email": "apovarelas@gmail.com",
+  "email": "",
   "ticket_type": ""
 }
 ```
