@@ -340,6 +340,23 @@ __Στοιχεία Admin__
      ![Screenshot_6](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/47693258-e9af-40a5-ac57-fb719c3c60e5)
 
 - __Ακύρωση κράτησης__
+
+1. Σωστή εισαγωγή δεδομένων
+
+    ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/fd3b5b04-9f71-4d68-ba8e-f8d3a53007e6)
+
+  2. Λάθος εισαγωγή δεδομένων
+
+   ![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/f20dc380-d442-448f-976c-3eaf76bbd97c)
+ 
+  3. Μερικώς σωστή εισαγωγή δεδομένων
+
+![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/19e78c91-6dcc-4070-819d-45798364e753)
+
+4. Προσπάθεια ακύρωσης κράτησης άλλου χρήστη
+
+  ![Screenshot_4](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/27f57eaf-6643-4e36-a9bf-9b1e197f939e)
+   
 - __Διαγραφή λογαριασμού__
 
 ### Λειτουργείες Admin
