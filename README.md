@@ -242,7 +242,7 @@ __Στοιχεία Admin__
   1. Σωστή εισαγωγή δεδομένων
 
      ![Screenshot_4](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/2a68eade-319d-4019-91c4-59df76183cc9)
-2. Λάθος εισαγωγή δεδομένων
+  2. Λάθος εισαγωγή δεδομένων
 
    ![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/6612782a-7743-49cf-96c9-d45bf8b9a20e)
 ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/46759dbc-ef63-4623-85a0-e6bacff139a8)
