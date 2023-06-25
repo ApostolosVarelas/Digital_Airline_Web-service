@@ -240,9 +240,11 @@ __Στοιχεία Admin__
 
 -Εγγραφή στο σύστημα
 1. Σωστή εισαγωγή δεδομένων
+   
    ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/fe017321-b0b1-4cf6-ac73-32f0d1396ede)
 
 2. Μη σωστή εισαγωγή δεδομένω
+   
    ![leipei to passport](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/21fec447-16cb-4f5a-bd03-062bc06674d7)
 
 3. Ύπαρξη λογαρισμού με το ίδιο username και email
