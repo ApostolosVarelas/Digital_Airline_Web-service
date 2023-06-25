@@ -311,7 +311,7 @@ __Στοιχεία Admin__
 
   2. Λάθος εισαγωγή δεδομένων
 
-    ![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/7d388e83-119c-4359-8520-a2d768d937ec)
+![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/7d388e83-119c-4359-8520-a2d768d937ec)
 ![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/e7290e11-50d8-4b46-9f9b-6fa09937e449)
 
   3. Μερικώς σωστή εισαγωγή δεδομένων
@@ -330,7 +330,7 @@ __Στοιχεία Admin__
 
   2. Λάθος εισαγωγή δεδομένων
 
-    ![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/9a9bd08b-a56f-484a-88ca-95e8bae0bd3c)
+![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/9a9bd08b-a56f-484a-88ca-95e8bae0bd3c)
 
   3. Μερικώς σωστή εισαγωγή δεδομένων
 
