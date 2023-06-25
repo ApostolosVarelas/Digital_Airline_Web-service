@@ -363,6 +363,12 @@ __Στοιχεία Admin__
 
 
 ### Λειτουργείες Admin
+
+Σε κάθε λειτουργία του Admin, αν ένας απλός χρήστης προσπαθήσει να την χρησιμοποιήσει εμφανίζεται το παρακάτω μήνυμα:
+
+![user try admin](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/d9dbb652-1340-4474-8f49-03bf2ce97ec6)
+
+
 - __Δημιουργία πτήσης__
 
 1. Σωστή εισαγωγή δεδομένων
