@@ -253,4 +253,4 @@ __Στοιχεία Admin__
 - Διαγραφή πτήσης
 - Εμφάνιση στοιχείων πτήσεων
   
-  ![Mpla](Images/Admin Search/Screenshot_1.png)
+  ![](Images/Admin Search/Screenshot_1.png)
