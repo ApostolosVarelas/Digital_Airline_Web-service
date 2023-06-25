@@ -247,6 +247,9 @@ __Στοιχεία Admin__
    ![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/6612782a-7743-49cf-96c9-d45bf8b9a20e)
 ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/46759dbc-ef63-4623-85a0-e6bacff139a8)
 
+3. Μη σωστή εισαγωγή δεδομένων
+
+   ![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/fdbf8e1c-1066-44fb-b942-7867658c0f21)
 
 - Έξοδος απο το σύστημα
 - Αναζήτηση πτήσεων
