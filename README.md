@@ -274,7 +274,7 @@ __Στοιχεία Admin__
     ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/cb37ae73-49da-4887-baf7-852d05c8844c)
 
 - __Αναζήτηση πτήσεων__
-  1. Σωστή εισαγωγή δεδομένων
+1. Σωστή εισαγωγή δεδομένων
 
 ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/c5b1d273-8399-41cb-99af-3a1390a43eff)
     
