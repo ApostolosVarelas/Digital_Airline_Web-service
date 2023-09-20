@@ -282,144 +282,157 @@ __Στοιχεία Admin__
 - __Αναζήτηση πτήσεων__
 1. Σωστή εισαγωγή δεδομένων
 
-![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/c5b1d273-8399-41cb-99af-3a1390a43eff)
+    ![Screenshot_1](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/2e1d1ea0-c4fe-4ebe-9429-9946de23a8bd)
+
     
   2. Λάθος εισαγωγή δεδομένων
 
-![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/cf12688d-914f-4acf-a4de-c2a506b94187)
+![Screenshot_2](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/d7b13489-529d-4032-a2d6-71b8b201efb2)
+
     
   3. Μερικώς σωστή εισαγωγή δεδομένων
 
-  ![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/70ab2784-8d0b-4236-8d7e-f1e7cc92f23b)
+  ![Screenshot_3](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/9f531654-5d0a-48b9-bea1-202945aa95f0)
+
    
 - __Εμφάνιση στοιχείων πτήσης__
 
 1. Σωστή εισαγωγή δεδομένων
 
-    ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/e9f5604f-f0b7-493c-ad0a-a98ce5fd1d54)
+    ![Screenshot_1](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/741e8ba9-1153-4aa9-a490-f40b1a683f1a)
+
 
   2. Λάθος εισαγωγή δεδομένων
 
-    
-![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/ef42ddcc-54ef-4e57-8798-5f02ed4905fc)
+![Screenshot_2](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/18dcbffd-b6f2-467e-8f03-2a5054c62a9f)
+
+
 
   3. Μερικώς σωστή εισαγωγή δεδομένων
 
-     ![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/ed82f2f3-d008-47f6-ad8f-b2d5927e74a7)
+     ![Screenshot_3](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/36c7eda3-f178-435d-a7e0-2137e0f4d7c6)
+
 
 - __Κράτηση εισιτηρίου__
 
 1. Σωστή εισαγωγή δεδομένων
 
-    ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/e41e1dcf-910f-438b-9bc5-62775658394a)
+    ![Screenshot_1](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/266958d2-f9ba-4ae1-b626-13e39f772a34)
+
 
   2. Λάθος εισαγωγή δεδομένων
 
-![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/7d388e83-119c-4359-8520-a2d768d937ec)
-![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/e7290e11-50d8-4b46-9f9b-6fa09937e449)
+![Screenshot_3](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/ece1c3e8-8774-4746-beb1-a23d4a77e605)
+![Screenshot_2](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/8e16c8f0-f215-4e48-8690-654f5c97003c)
 
   3. Μερικώς σωστή εισαγωγή δεδομένων
 
-     ![Screenshot_4](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/8517d78e-88dd-4e63-94a0-e9b73f817f6d)
+     ![Screenshot_4](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/97d54e31-0124-41f3-a983-2fe3114a5a0a)
+
 
 - __Εμφάνιση κρατήσεων__
 
-  ![Screenshot_5](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/d92bcb08-a905-4002-b8ca-7939291c294a)
+  ![Screenshot_5](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/9b2b5d1e-c50c-4c49-aba3-a33a2e331c79)
 
 - __Εμφάνιση στοιχείων κράτησης__
 
 1. Σωστή εισαγωγή δεδομένων
 
-    ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/62d5065f-1d50-4095-bfcc-ef26eb5ecf69)
+    ![Screenshot_1](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/813595dd-9a52-42aa-ae00-2b64b026394b)
+
 
   2. Λάθος εισαγωγή δεδομένων
 
-![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/9a9bd08b-a56f-484a-88ca-95e8bae0bd3c)
+![Screenshot_2](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/57dbeb11-2864-4b43-ae1b-5b7e0f7a74c1)
+
 
   3. Μερικώς σωστή εισαγωγή δεδομένων
 
-     ![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/7950f525-9e95-4860-8ca5-61f0fd1328c1)
+     ![Screenshot_3](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/e25a7304-cc21-42f8-9aba-30a0cf43cf62)
+
   4. Προσπάθεια εμφάνιση κράτησης άλλου χρήστη
 
-     ![Screenshot_6](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/47693258-e9af-40a5-ac57-fb719c3c60e5)
+     ![Screenshot_6](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/510ae96d-89a3-481c-8317-6feeddf95624)
 
 - __Ακύρωση κράτησης__
 
 1. Σωστή εισαγωγή δεδομένων
 
-    ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/fd3b5b04-9f71-4d68-ba8e-f8d3a53007e6)
+    ![Screenshot_1](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/9ee2a442-2ae2-4c12-a557-6d9be0143981)
 
   2. Λάθος εισαγωγή δεδομένων
 
-   ![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/f20dc380-d442-448f-976c-3eaf76bbd97c)
+   ![Screenshot_2](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/1ce87562-e578-426d-b43e-300cdce64b48)
  
   3. Μερικώς σωστή εισαγωγή δεδομένων
 
-![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/19e78c91-6dcc-4070-819d-45798364e753)
+![Screenshot_3](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/efe406ff-f16c-4f47-ae1d-2e578087fb8f)
 
 4. Προσπάθεια ακύρωσης κράτησης άλλου χρήστη
 
-  ![Screenshot_4](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/27f57eaf-6643-4e36-a9bf-9b1e197f939e)
+  ![Screenshot_4](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/b163da4b-4282-45ab-96e8-9d7457f46057)
    
 - __Διαγραφή λογαριασμού__
 
-  ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/451d74d9-8d7a-4019-b27c-42144f9efb5a)
+  ![Screenshot_1](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/e60345e5-0217-4f92-97aa-178149469b5d)
 
 
 ### Λειτουργίες Admin
 
 Σε κάθε λειτουργία του Admin, αν ένας απλός χρήστης προσπαθήσει να την χρησιμοποιήσει εμφανίζεται το παρακάτω μήνυμα:
 
-![user try admin](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/d9dbb652-1340-4474-8f49-03bf2ce97ec6)
+![user try admin](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/6c906390-53c4-4b41-a327-dea49338655c)
 
 
 - __Δημιουργία πτήσης__
 
 1. Σωστή εισαγωγή δεδομένων
 
-    ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/63c08e0e-8574-449c-820b-29578aa4f03e)
+    ![Screenshot_1](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/42739cd5-4c5c-401c-a272-324a93789e97)
    
 2. Μερικώς σωστή εισαγωγή δεδομένων
  
-     ![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/9e693e3d-fd31-403f-a883-7ade02dd2824)
+     ![Screenshot_2](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/338985d7-2aa6-43b7-9c4f-b91ed70536ab)
 
 - __Ανανέωση τιμών εισιτηρίων πτήσης__
 1. Σωστή εισαγωγή δεδομένων
 
-    ![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/243f76c5-cf14-4638-b3c4-c710eda8f06a)
+    ![Screenshot_3](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/8fa56d02-abdc-455d-abff-aed22f18c0ad)
 
   2. Λάθος εισαγωγή δεδομένων
 
-![Screenshot_4](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/fa23e09e-e244-4b52-af49-7bfc69570906)
+![Screenshot_4](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/c7e9edca-a5db-49d3-81df-3dcd2c190baf)
 
   3. Μερικώς σωστή εισαγωγή δεδομένων
 
-![Screenshot_5](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/91a4ab7b-3ef3-4616-a8df-39ed9c9aa358)
+![Screenshot_5](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/9a182b4f-395d-4f44-a941-de7d1d7e4215)
 
 - __Διαγραφή πτήσης__
 1. Σωστή εισαγωγή δεδομένων
 
-    ![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/4987d9d4-01c7-42dc-9130-dc7fb25a2f0d)
+    ![Screenshot_2](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/dd374dfd-3f00-4b07-a0f3-ae6adea06e6c)
 
 2. Λάθος εισαγωγή δεδομένων
 
-    ![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/69f29822-4645-4e29-89da-d876fc021ec3)
+    ![Screenshot_3](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/c4adfe2a-d7ec-4748-9648-dd7ba9e43b96)
 
 3. Μερικώς σωστή εισαγωγή δεδομένων
 
-     ![Screenshot_4](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/0a639e1d-327b-4098-9b80-ee1d7125fbad)
+     ![Screenshot_4](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/a1c3a3e3-96d1-494d-af27-50ab4dd5e4d9)
+
 4. Διαγραφή πτήσης στην οποία έχει γίνει τουλάχιστον μια κράτηση
    
-    ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/a11fb0e7-9312-4f19-8663-e5582db81a57)
+    ![Screenshot_1](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/739c0277-9613-4283-b975-ecf56d0f4ca8)
 
 - __Εμφάνιση στοιχείων πτήσεων__
 1. Σωστή εισαγωγή δεδομένων
 
-    ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/7c25f5a8-1dd8-47ec-ae7e-bc0914ded5a7)
+    ![Screenshot_1](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/c397ea54-7d08-4d6c-a69f-b8b91b70d068)
 
   2. Λάθος εισαγωγή δεδομένων
 
-![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/06f344ce-e491-45a0-b2fe-12f51635a0ec)
+![Screenshot_2](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/8962261e-da80-497a-80b1-9b7b08893406)
 
   3. Μερικώς σωστή εισαγωγή δεδομένων
-![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/53671bd1-f0c8-4a40-982f-349ec01bb066)
+
+![Screenshot_3](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/a8f46a99-341d-4757-99ae-23bad91ae32c)
