@@ -241,42 +241,43 @@ __Στοιχεία Admin__
 
 Σε όλες τις λειτουργίες, όταν ο χρήστης δεν έχει κάνει login παρουσιάζεται το παρακάτω μήνυμα:
 
-![no login](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/ed1b753a-6be2-414b-ac1c-b865d5552b15)
+![no login](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/6426a5e0-206f-4a44-bd23-850f3fc9c157)
 
 ### Λειτουργίες User/Admin
 
 - __Εγγραφή στο σύστημα__
 1. Σωστή εισαγωγή δεδομένων
    
-   ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/fe017321-b0b1-4cf6-ac73-32f0d1396ede)
+   ![Screenshot_1](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/fd338aed-e4dc-445a-80b0-e4f19d9cdfc8)
 
 2. Μερικώς σωστή εισαγωγή δεδομένων
    
-   ![leipei to passport](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/21fec447-16cb-4f5a-bd03-062bc06674d7)
+   ![leipei to passport](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/74732cb3-9ca5-4038-8ed2-4c338a656664)
 
 3. Ύπαρξη λογαρισμού με το ίδιο username και email
    
-    ![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/cf2adc48-3d07-460e-b80a-66207ba50fe2)
-
+    ![Screenshot_2](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/47fd70be-8389-4a1f-a87b-2f0497dd9af7)
 
 
 - __Είσοδος στο σύστημα__
 
 1. Σωστή εισαγωγή δεδομένων
 
-     ![Screenshot_4](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/2a68eade-319d-4019-91c4-59df76183cc9)
+     ![Screenshot_4](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/605ad327-e606-450d-89a7-7df3b647055e)
+
 2. Λάθος εισαγωγή δεδομένων
 
-   ![Screenshot_2](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/6612782a-7743-49cf-96c9-d45bf8b9a20e)
-![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/46759dbc-ef63-4623-85a0-e6bacff139a8)
+   ![Screenshot_2](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/c37a9384-fc55-4eeb-90f6-3e64ebb201ad)
+![Screenshot_1](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/ad2fb904-d0cf-4c03-9869-f760c8451a21)
+
 
 3. Μερικώς σωστή εισαγωγή δεδομένων
 
-   ![Screenshot_3](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/fdbf8e1c-1066-44fb-b942-7867658c0f21)
-   
+   ![Screenshot_3](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/4e38cc8a-f4f2-4b7b-a3a5-1741da804ed0)
+
 - __Έξοδος απο το σύστημα__
-  
-    ![Screenshot_1](https://github.com/ApostolosVarelas/YpoxreotikiErgasia23_E20014_Varelas_Apostolos_Foivos/assets/87095756/cb37ae73-49da-4887-baf7-852d05c8844c)
+     
+    ![Screenshot_1](https://github.com/ApostolosVarelas/Digital_Airline_Web-service/assets/87095756/dd4ff308-3b25-4b33-9a03-5668703ef224)
 
 - __Αναζήτηση πτήσεων__
 1. Σωστή εισαγωγή δεδομένων
